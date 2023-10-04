@@ -1,9 +1,5 @@
 Sistema de Gerenciamento Escolar
 
-Descrição do Projeto:
-
-Estou muito satisfeito em apresentar o projeto "Sistema de Gerenciamento Escolar", no qual tive a oportunidade de aplicar minhas habilidades e conhecimentos em desenvolvimento de software.
-
 Desafios Enfrentados:
 
 Ao longo do desenvolvimento deste projeto, enfrentei alguns desafios interessantes:
